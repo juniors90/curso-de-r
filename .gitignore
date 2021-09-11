@@ -1,5 +1,5 @@
 
-docs/build/
+docs/build/*
 PDF
 .RData
 .RHistory

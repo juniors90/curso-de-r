@@ -1,11 +1,10 @@
+Generalidades acerca de R
+==========================
 
-Módulo 1 - clase 1
-======================
-
-Aclaraciones general
+Acerca de este módulo
 -------------------------
 
-Este módulo contiene información sobre el uso general de R. Usted deberá instalar R_ en su
+Este módulo contiene información sobre el uso general de R_. Usted deberá instalar R_ [R]_ en su
 computadora y luego seguir las instrucciones de este manual. Este curso está administrado desde
 computadoras que utilizan Linux como sistema operativo y las aplicaciones se desarrollan desde la
 consola, utilizando instrucciones escritas a través de códigos. No se utiliza ninguna interfaz que
@@ -306,13 +305,14 @@ continuación
 
 .. code-block:: R
     
-    > # sesión del día 18/9/18. Día soleado, agradable para una sesión de R. Objetivos: análisis
-    > # multivariado de datos de la base de datos aguas. Se realizarán PCA y MCA de los datos en
-    > # búsqueda de respuestas a los interrogantes de la reunión anterior. ¿Hay relación entre los
-    > # componentes químicos del agua y la provincia de origen? ¿Las personas están satisfechas con el
-    > # agua que consumen y el precio que pagan por ella?
-    > # este texto quedará en un archivo en su espacio de trabajo, junto con todo los análisis 
-    > # y resultados hallados.
+    > # sesión del día 18/9/18. Día soleado, agradable para una sesión de R.
+    > # Objetivos: análisis multivariado de datos de la base de datos aguas.
+    > # Se realizarán PCA y MCA de los datos en búsqueda de respuestas a los
+    > # interrogantes de la reunión anterior. ¿Hay relación entre los
+    > # componentes químicos del agua y la provincia de origen? ¿Las personas
+    > # están satisfechas con el agua que consumen y el precio que pagan por ella?
+    > # este texto quedará en un archivo en su espacio de trabajo, junto con
+    > # todo los análisis y resultados hallados.
 
 Hagamos un poco más de reflexión antes de seguir. Trabajar con R,_ como dijimos es como trabajar
 en un laboratorio. Compararemos R_ con un laboratorio en dos columnas
@@ -876,7 +876,4 @@ Tenga en cuenta que si borra un objeto no existe "``undo``".
 
 .. _R: https://www.r-project.org/
 
-aa<-c(3,4,5,6,7);
-bb<-c(11,11,11,23,11);
 
-- el resultado del comando mean(a) debe dar el mismo resultado que mean(b)

@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Uso de herramientas informáticas para la recopilación, análisis e interpretación de datos de interés en las ciencias biomédicas - Módulo 1
-==========================================================================================================================================
+=============================================================================================================================================
 
 .. toctree::
    :maxdepth: 3
@@ -13,3 +13,5 @@ Uso de herramientas informáticas para la recopilación, análisis e interpretac
 
    Notas/01-introduccion
    Notas/02-generalidades
+   Notas/03-introducir-datos-en-r
+   Notas/04-continuacion-de-dataframe
