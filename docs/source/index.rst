@@ -15,3 +15,4 @@ Uso de herramientas informáticas para la recopilación, análisis e interpretac
    Notas/02-generalidades
    Notas/03-introducir-datos-en-r
    Notas/04-continuacion-de-dataframe
+   Notas/05-continuacion-de-dataframe
